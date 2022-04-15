@@ -10,7 +10,9 @@
 	<p>На этом сайте вы можете найти <b><em>все</em> сайты, которые сделал <em>whoamin34505</em></b></p>
 	<a href="https://github.com/whoamin34505/app/raw/main/Raspad.exe">Скачать программу для альфа и бета распадов</a>
 	<br> <!-- нужно для переноса строки -->
+	<br>
 	<a href="https://whoamin34505.github.io/raspweb/">Сайт для проведения альфа и бета распадов</a>
+	<br>
 	<br>
 	<a href="https://whoamin34505.github.io/web/">Ссылка на сайт, который решает задачи, связанные с дефектом массы</a>
 	<hr>
