@@ -17,6 +17,10 @@
     line-height: 35px;
     p {margin: 0px 0px 23px 0px};
     text-align: center;
+    background-color: #dcdcdc;
+    text-width: 100px;
+    text-height: 100px;
+    border-radius: 10px;
     }
     .btn1 {
       font-family: 'Comfortaa', cursive;
