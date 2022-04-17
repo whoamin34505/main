@@ -1,4 +1,3 @@
-
 <html>
 	<head>
 		<title>Сайт whoamin34505</title>
@@ -10,8 +9,8 @@
 		<link rel="shortcut icon" href="https://w7.pngwing.com/pngs/165/985/png-transparent-atomic-theory-carbon-atomic-mass-chemical-element-atom-symmetry-chemistry-subatomic-particle.png"/>
 	</head>
 	<body>
-		<h1>Сайт whoamin34505</h1>
-	<p class="text">На этом сайте вы можете найти <b><em>все</em> сайты, которые сделал <em>whoamin34505</em></b></p>
+		<h1 class="title">Сайт whoamin34505</h1>
+	<p class="title">На этом сайте вы можете найти <b><em>все</em> сайты, которые сделал <em>whoamin34505</em></b></p>
 	<div class="text">
 	<a href="https://github.com/whoamin34505/app/raw/main/Raspad.exe">Скачать программу для альфа и бета распадов</a>
 	<br> <!-- нужно для переноса строки -->
