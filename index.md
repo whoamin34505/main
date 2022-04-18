@@ -1,3 +1,4 @@
+
 <html>
 	<head>
 		<title>Сайт whoamin34505</title>
@@ -28,6 +29,10 @@
 	<br>
 	<div class="text">
 	<a href="https://whoamin34505.github.io/arpr/">Ссылка на сайт, который находит данные с арифметической прогрессии</a>
+	</div>
+	<br>
+	<div class="text">
+	<a href="https://whoamin34505.github.io/yad/">Ссылка на сайт, на котором можно проводить ядерные реакции</a>
 	</div>
 	<hr>
 	<ul>
